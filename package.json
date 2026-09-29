@@ -1,0 +1,36 @@
+{
+  "name": "cloud-notes-backup-system",
+  "version": "1.0.0",
+  "description": "Cloud Notes Backup System - Dynamic Web App with Automated CI/CD Pipeline for Cloud Computing & DevOps (CCA 2)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node --test test/**/*.test.js",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "keywords": [
+    "cloud-computing",
+    "devops",
+    "ci-cd",
+    "github-actions",
+    "render",
+    "docker",
+    "nodejs",
+    "express"
+  ],
+  "author": "Atharva Gaikwad",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.20.0",
+    "eslint": "^9.20.1",
+    "globals": "^15.14.0"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
