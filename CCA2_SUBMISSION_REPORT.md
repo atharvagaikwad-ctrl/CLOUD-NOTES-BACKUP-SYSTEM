@@ -13,7 +13,7 @@
 | **Roll No. / Panel** | [Insert Roll No. / Panel] |
 | **Course Faculty** | Prof. Pranati Waghodekar |
 | **Project Title** | Cloud Notes Backup System with Automated CI/CD Pipeline |
-| **GitHub Repository URL** | https://github.com/atharvagaikwad-ctrl/cloud-notes-backup-system |
+| **GitHub Repository URL** | https://github.com/atharvagaikwad-ctrl/CLOUD-NOTES-BACKUP-SYSTEM |
 | **Live Application URL** | [Insert Live Render URL, e.g., https://cloud-notes-backup-system.onrender.com] |
 | **Date of Submission** | September 2026 |
 

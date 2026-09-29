@@ -1,6 +1,6 @@
 # ☁️ Cloud Notes Backup System
 
-[![CI/CD Pipeline](https://github.com/atharvagaikwad-ctrl/cloud-notes-backup-system/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/atharvagaikwad-ctrl/cloud-notes-backup-system/actions/workflows/ci-cd.yml)
+[![CI/CD Pipeline](https://github.com/atharvagaikwad-ctrl/CLOUD-NOTES-BACKUP-SYSTEM/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/atharvagaikwad-ctrl/CLOUD-NOTES-BACKUP-SYSTEM/actions/workflows/ci-cd.yml)
 [![Node.js](https://img.shields.io/badge/Node.js-22.x-339933?logo=nodedotjs)](https://nodejs.org)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker)](https://www.docker.com/)
 [![Render](https://img.shields.io/badge/Deploy-Render-46E3B7?logo=render)](https://render.com)
@@ -82,8 +82,8 @@ flowchart TD
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/atharvagaikwad-ctrl/cloud-notes-backup-system.git
-cd cloud-notes-backup-system
+git clone https://github.com/atharvagaikwad-ctrl/CLOUD-NOTES-BACKUP-SYSTEM.git
+cd CLOUD-NOTES-BACKUP-SYSTEM
 npm install
 ```
 
